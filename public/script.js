@@ -61,7 +61,7 @@ async function handleSubmit(e) {
   };
 
   try {
-    const response = await fetch("https://formspree.io/f/mbdqwyoq", {
+    const response = await fetch("https://formspree.io/f/xykozzrl", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
